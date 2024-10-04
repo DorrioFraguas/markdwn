@@ -12,6 +12,7 @@
 ##a mí sí, tengo compañeras de baile bastante divertidas
 #yo tengo clases de Fútbol
 ##eres parvo quedar detrás de una pelota
+#bueno me voy, tchao
 
 ![imajen da turma da mónica.jpeg](..%2F..%2FDesktop%2Fimajen%20da%20turma%20da%20m%C3%B3nica.jpeg)
 Comic terminado
@@ -43,6 +44,7 @@ comic terminado
 #e tú mónica ¿que haces aquí en Orense?
 ##vino con escursión del colegio
 #!Que coincidencia!
+##tengo que irme tchao
 
 [descarga.jpeg Anjinho e mónica juntos.jpeg](..%2F..%2FDesktop%2Fdescarga.jpeg%20Anjinho%20e%20m%C3%B3nica%20juntos.jpeg)
 Comic terminado
@@ -94,3 +96,15 @@ comit 9
 comit 10
 
 comit 11
+
+comit 12
+
+comit 13
+
+comit 14
+
+comit 15
+
+comict 16
+
+comit 17
