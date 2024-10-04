@@ -77,7 +77,7 @@ comic terminado
 ![descarga.png mónica.png](..%2F..%2FDesktop%2Fdescarga.png%20m%C3%B3nica.png)
 comic terminado 
 
-
+palestina hoy
 
 
 
